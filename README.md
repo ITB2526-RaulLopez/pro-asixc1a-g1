@@ -1,7 +1,8 @@
 # Proyecto InnovateTech
 
 ---
-Para ver el documento con las imagenes hace falta importar el archivo en un visualizador de archivos.
+> [!NOTE]
+> Para visualizar correctamente el documento y las imágenes incluidas, se recomienda abrir el archivo **Proyecto InnovateTech.md** en un visualizador compatible como Google Docs o Microsoft Word.
 ## Índice
 
 1. [Propuesta del CPD](#propuesta-del-cpd)
