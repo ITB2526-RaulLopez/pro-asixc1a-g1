@@ -1,7 +1,7 @@
 # Proyecto InnovateTech
 
 ---
-
+# Para ver el documento con las imagenes hace falta importar el archivo en un visualizador de archivos.
 ## Índice
 
 1. [Propuesta del CPD](#propuesta-del-cpd)
