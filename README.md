@@ -22,7 +22,7 @@
 
 [Infraestructura IT	10](#infraestructura-it)
 
-[Servidores: Número y tipo de modelo	10](#servidores:-número-y-tipo-de-modelo)
+[Servidores	10](#servidores)
 
 [Servidor 1 – Web	11](#servidor-1-–-web)
 
@@ -293,7 +293,7 @@ Además, se dejarán varias unidades libres para mejorar la circulación del air
 
 [Especificaciones del CPD](https://docs.google.com/spreadsheets/d/1MzhewkMIZfSg18bx69DwVxc5Ksz98NR3uOj41DazYLU/edit?usp=drive_link) 
 
-### Servidores: Número y tipo de modelo {#servidores:-número-y-tipo-de-modelo}
+### Servidores {#servidores}
 
 La infraestructura del CPD estará formada por seis servidores físicos profesionales montados en rack. Cada servidor ha sido seleccionado según las necesidades específicas de cada servicio para garantizar estabilidad, rendimiento y escalabilidad.
 
