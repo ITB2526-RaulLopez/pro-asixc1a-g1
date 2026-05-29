@@ -3,6 +3,8 @@
 ---
 > [!NOTE]
 > Para visualizar correctamente el documento y las imágenes incluidas, se recomienda abrir el archivo **Proyecto InnovateTech.md** en un visualizador compatible como Google Docs o Microsoft Word.
+> https://canva.link/kb97vq46iqy2rie
+
 ## Índice
 
 1. [Propuesta del CPD](#propuesta-del-cpd)
