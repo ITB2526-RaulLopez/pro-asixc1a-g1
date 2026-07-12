@@ -4,7 +4,7 @@
 > [!NOTE]
 > Para visualizar correctamente el documento y las imágenes incluidas, se recomienda abrir el archivo **Proyecto InnovateTech.md** en un visualizador compatible como Google Docs o Microsoft Word.
 
-[![Enlace Presentación](https://img.shields.io/badge/Enlace%20Presentaci%C3%B3n-Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/kb97vq46iqy2rie)
+[![Enlace Presentación](https://img.shields.io/badge/Enlace%20Presentaci%C3%B3n-Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://canva.link/i5qqfleikupmf0y)
 
 ## Índice
 
